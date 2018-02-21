@@ -6,7 +6,7 @@ Den primære årsag til at jeg stiller det allerede nu, er at såfremt projektet
 Projektet går ud på at bygge et netværk af luftsensorer, der gemmer målinger i en Time Series Database, hvorfra vi på snedig vis kan alarmere (tænk Slack, Sonos, Smart bulb...), når kålprut-og-colabøvs-luften hænger tykt over kontoret.  
 Jeg ved det, frisk luft og åbne vinduer er noget kun vores koner og tillidsmænd går op i.  
 Ikke desto mindre er det et emne man kan få meget sjov ud af. Uanset om man er passioneret omkring elektronik, netværk, data eller grafik.  
-Præsentation: https://nanohest.github.io/hackcamp_proposal.  
+Præsentation: https://nanohest.github.io/hackcamp_proposal/.  
 
 ### Hardware
 bme680 luftsensor: https://shop.pimoroni.com/products/bme680  
